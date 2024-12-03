@@ -1,6 +1,6 @@
-# Palindrome App
+# Palindrome App (iOS)
 
-This is a mobile application that demonstrates checking whether a sentence is a palindrome. The app is implemented in three versions: Android Native (Kotlin), iOS Native (Swift), and Flutter (Dart). The application consists of 3 screens, performs API integration, and supports navigation between screens.
+This is a mobile application built using **Swift** and **UIKit** that checks whether a sentence is a palindrome. The app consists of 3 screens, performs API integration to fetch user data, and allows navigation between screens.
 
 ## Features
 
@@ -49,31 +49,12 @@ This is a mobile application that demonstrates checking whether a sentence is a 
 
 Add some screenshots here to illustrate the UI of the app on different screens.
 
-## Platforms
-
-- **Android**: Native Android app using Kotlin, XML or Jetpack Compose
-- **iOS**: Native iOS app using Swift and UIKit
-- **Flutter**: Cross-platform app using Flutter and Provider, GetX, or Bloc for state management
-
 ## Requirements
-
-### Android
-
-- **Min SDK**: 21
-- **Target SDK**: 34
-- **Programming Language**: Kotlin
-- **UI Framework**: XML or Jetpack Compose
-
-### iOS
 
 - **Min iOS Version**: 15
 - **Programming Language**: Swift
 - **UI Framework**: UIKit
-
-### Flutter
-
-- **Flutter Version**: 3.22 or above
-- **State Management**: Provider, GetX, or Bloc
+- **Development Environment**: Xcode (latest version recommended)
 
 ## Installation
 
