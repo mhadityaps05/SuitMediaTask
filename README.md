@@ -60,5 +60,5 @@ Add some screenshots here to illustrate the UI of the app on different screens.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/palindrome-app.git
-cd palindrome-app
+git clone https://github.com/mhadityaps05/SuitMediaTask
+cd SuitMediaTask
