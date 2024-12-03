@@ -1,4 +1,4 @@
-# Palindrome App (iOS)
+# SuitmediaTask (iOS)
 
 This is a mobile application built using **Swift** and **UIKit** that checks whether a sentence is a palindrome. The app consists of 3 screens, performs API integration to fetch user data, and allows navigation between screens.
 
