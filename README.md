@@ -47,7 +47,13 @@ This is a mobile application built using **Swift** and **UIKit** that checks whe
 
 ## Screenshots
 
-Add some screenshots here to illustrate the UI of the app on different screens.
+<img width="395" alt="Screenshot 2024-12-04 at 2 05 10 AM" src="https://github.com/user-attachments/assets/fa998432-fff3-4487-a086-1bf693e8d3a1">
+<img width="395" alt="Screenshot 2024-12-04 at 2 05 47 AM" src="https://github.com/user-attachments/assets/293d9109-8b7a-454b-8d8f-eff959b07ba2">
+<img width="397" alt="Screenshot 2024-12-04 at 2 05 56 AM" src="https://github.com/user-attachments/assets/fe88dd50-555d-48e6-ab12-f4c0c062541c">
+<img width="406" alt="Screenshot 2024-12-04 at 2 06 10 AM" src="https://github.com/user-attachments/assets/94b0c195-bda6-4301-aa51-c7f6714a4ba1">
+<img width="399" alt="Screenshot 2024-12-04 at 2 06 27 AM" src="https://github.com/user-attachments/assets/80204874-44e9-4fdd-baab-3a71c333f525">
+<img width="399" alt="Screenshot 2024-12-04 at 2 06 49 AM" src="https://github.com/user-attachments/assets/5c314906-4cd1-4347-ba0b-39ea6dcec6e1">
+
 
 ## Requirements
 
